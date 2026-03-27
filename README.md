@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: AI-based academic projects, data analysis, and IT research reports<br><br>👯 I’m looking to collaborate on: AI, data analytics, and beginner-friendly tech projects<br><br>🤝 I’m looking for help with: improving coding skills, open-source contribution, and real-world project building<br><br>🌱 I’m currently learning: Python, Artificial Intelligence concepts, and data analysis tools<br><br>💬 Ask me about: AI in business, CRM systems, operations management projects, and student research<br><br>⚡ Fun fact: I enjoy exploring new AI tools and using them to make academic work smarter and fastert
+🔭 I’m currently working on: data analysis, and IT research reports<br><br>👯 I’m looking to collaborate on: AI, data analytics, and beginner-friendly tech projects<br><br>🤝 I’m looking for help with: improving coding skills, open-source contribution, and real-world project building<br><br>🌱 I’m currently learning: Python, Artificial Intelligence concepts, and data analysis tools<br><br>💬 Ask me about: operations management projects, and student research<br><br>⚡ Fun fact: I enjoy exploring new AI tools and using them to make academic work smarter and fastert
 
 
 ## 🌐 Socials:
